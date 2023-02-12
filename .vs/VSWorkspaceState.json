@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\components",
+    "\\src\\reducers",
+    "\\src\\store"
+  ],
+  "SelectedNode": "\\src\\components\\AddProduct.js",
+  "PreviewInSolutionExplorer": false
+}
