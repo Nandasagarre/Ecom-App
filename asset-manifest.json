@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ecom-App/static/css/main.a66ccb54.css",
-    "main.js": "/Ecom-App/static/js/main.cbbf84da.js",
+    "main.js": "/Ecom-App/static/js/main.4d9d7dbc.js",
     "index.html": "/Ecom-App/index.html",
     "main.a66ccb54.css.map": "/Ecom-App/static/css/main.a66ccb54.css.map",
-    "main.cbbf84da.js.map": "/Ecom-App/static/js/main.cbbf84da.js.map"
+    "main.4d9d7dbc.js.map": "/Ecom-App/static/js/main.4d9d7dbc.js.map"
   },
   "entrypoints": [
     "static/css/main.a66ccb54.css",
-    "static/js/main.cbbf84da.js"
+    "static/js/main.4d9d7dbc.js"
   ]
 }
