@@ -18,8 +18,9 @@ function App() {
        
         <Router>
                 <Nav />
+                <Welcome/>
                 <Routes>
-                    <Route exact path='/' element={<Welcome/>}></Route>
+                    
                     <Route exact path='/addproduct' element={< AddProducts />}></Route>
                     <Route exact path='/showproducts' element={< Showproducts />}></Route>
                     <Route exact path='/productdetails/:id' element={< ProductDeatils />}></Route>
